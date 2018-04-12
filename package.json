@@ -1,0 +1,19 @@
+{
+  "name": "dayz-2d",
+  "version": "1.0.0",
+  "description": "A simplified version of the game DayZ with 2d graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hivemindcoder/dayz-2d.git"
+  },
+  "author": "Sandi Milicevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hivemindcoder/dayz-2d/issues"
+  },
+  "homepage": "https://github.com/hivemindcoder/dayz-2d#readme"
+}
